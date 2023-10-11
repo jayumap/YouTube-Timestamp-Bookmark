@@ -41,6 +41,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 3. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
